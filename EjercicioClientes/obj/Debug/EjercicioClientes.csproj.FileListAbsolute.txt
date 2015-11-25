@@ -1,0 +1,11 @@
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\bin\Debug\EjercicioClientes.exe.config
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\bin\Debug\EjercicioClientes.exe
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\bin\Debug\EjercicioClientes.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\obj\Debug\EjercicioClientes.csprojResolveAssemblyReference.cache
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\obj\Debug\EjercicioClientes.Buscar.resources
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\obj\Debug\EjercicioClientes.Form1.resources
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\obj\Debug\EjercicioClientes.Properties.Resources.resources
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\obj\Debug\EjercicioClientes.Registrar.resources
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\obj\Debug\EjercicioClientes.csproj.GenerateResource.Cache
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\obj\Debug\EjercicioClientes.exe
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioClientes\EjercicioClientes\obj\Debug\EjercicioClientes.pdb
